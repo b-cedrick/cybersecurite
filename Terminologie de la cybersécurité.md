@@ -63,6 +63,8 @@ Attention, des sites copies conformes de l'original sont aussi capables d'aspire
 
 **Ransomware :**  Programme malveillant (malware) dont l’objectif est d’extorquer de l’argent à une victime, souvent en chiffrant les données sur le disque de son ordinateur et en lui demandant un paiement en échange de la clé de déchiffrement.
 
+**Les script-kiddies :** ce sont des pirates débutants qui agissent uniquement à l’aide des logiciels prêts à utiliser. Ils sont dans une logique de destruction ou de gain financier. Ils utilisent des outils qu’ils ne maîtrisent pas et dont ils ignorent le fonctionnement. La seule chose qu’ils font est l’exécution du logiciel et attendent le résultat.
+
 **Security Information and Event Management :**  Plateforme de collecte et de traitement d’alertes permettant à des opérateurs de surveiller la sécurité de leurs systèmes et de réagir en cas d’attaque.
 
 **Virus :**  Logiciel malveillant ayant la propriété de s’installer sur un système et capable de se propager pour en infecter d’autres.
