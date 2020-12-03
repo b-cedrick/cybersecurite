@@ -33,6 +33,8 @@ Les données personnelles ont une valeur marchande pas toujours facile à peser 
 
 **Google Project Zero :**  [Projet de Google](https://googleprojectzero.blogspot.fr/)  ayant pour objectif de trouver de nouvelles vulnérabilités dans les logiciels.
 
+**Hacking :** c’est le fait de détourner un objet ou une entité (ou encore plus précisément et pariculièrement en informatique des ressources comme les serveurs, les PC, Objets connécté ou autres) de son but premier.
+
 **Hacker :** En sécurité informatique, un hacker, francisé hackeur ou hackeuse, est un spécialiste d'informatique, qui recherche les moyens de contourner les protections logicielles et matérielles. Il agit par curiosité, à la recherche de la gloire, par conscience politique ou bien contre rémunération.
 
 **Infrastructures critiques ou infrastructures d’importance vitale :**  Infrastructures pour lesquelles une attaque informatique peut avoir des conséquences très importantes sur les services rendus, éventuellement jusqu’à mettre en jeu la vie humaine.
