@@ -8,10 +8,14 @@
 
 Cette confusion entre les appareils personnels (AP) et professionnels multiplie en effet les possibilités de contamination par un virus ou un ransomware qui peut se propager ensuite à toute l'entreprise. Les réseaux sociaux sont tout particulièrement à surveiller.
 
+**Carding :** Ces pirates s’attaquent principalement aux systèmes de cartes à puces (en particulier les cartes bancaires) pour en comprendre le fonctionnement et en exploiter les failles.
+
+**Cheval de Troie  :**  Porte dérobée installée sur un système à l’insu de ses utilisateurs et administrateurs, permettant à un pirate de s’y connecter régulièrement et facilement sans être vu.
+
 **Chiffrement :** Technique de cryptographie utilisée depuis les débuts de l'informatique afin de protéger des fichiers des yeux indiscrets. Pour être crédible devant un professionnel de la sécurité informatique, il convient d'employer l'adjectif «chiffré » plutôt que l'anglicisme «crypté ».
 Un document est verrouillé par un algorithme qui va impliquer des milliers, voire des millions d'opérations arithmétiques pour le déchiffrer. Il faut distinguer le chiffrement symétrique, où la même clé chiffre et déchiffre, de l'asymétrique, où une clé privée supplémentaire est nécessaire pour ouvrir le fichier ou un e-mail. Les messageries privées comme WhatsApp, Telegram ou Viber s'appuient sur ce système.
 
-**Cheval de Troie  :**  Porte dérobée installée sur un système à l’insu de ses utilisateurs et administrateurs, permettant à un pirate de s’y connecter régulièrement et facilement sans être vu.
+**crackers :** DSont des criminels informatiques dont leur but principal est de détruire ou voler des données, de mettre hors service des systèmes informatiques ou de ‘kidnapper’ un système informatique en vue de demander une rançon.
 
 **Cyberattaque :**  Séquence d’actions menant à une violation de la politique de sécurité. Cette violation se matérialise souvent par un dysfonctionnement du système d’information ou du réseau (impossibilité de se connecter, arrêt d’un service, chiffrement des données par un  _ransomware_). Une cyberattaque peut également ne pas être visible mais avoir des conséquences graves comme le vol d’informations confidentielles.
 
@@ -33,9 +37,11 @@ Les données personnelles ont une valeur marchande pas toujours facile à peser 
 
 **Google Project Zero :**  [Projet de Google](https://googleprojectzero.blogspot.fr/)  ayant pour objectif de trouver de nouvelles vulnérabilités dans les logiciels.
 
-**Hacking :** c’est le fait de détourner un objet ou une entité (ou encore plus précisément et pariculièrement en informatique des ressources comme les serveurs, les PC, Objets connécté ou autres) de son but premier.
-
 **Hacker :** En sécurité informatique, un hacker, francisé hackeur ou hackeuse, est un spécialiste d'informatique, qui recherche les moyens de contourner les protections logicielles et matérielles. Il agit par curiosité, à la recherche de la gloire, par conscience politique ou bien contre rémunération.
+
+**Hacking :** C’est l’accès non autorisé à un système ou un réseau informatique. Les pirates de Hacking attaquent essentiellement les réseaux informatiques (hackers, crackers et script-kiddies).
+
+**Hacktivistes :** Se sont des hackers dont la motivation est principalement idéologique.
 
 **Infrastructures critiques ou infrastructures d’importance vitale :**  Infrastructures pour lesquelles une attaque informatique peut avoir des conséquences très importantes sur les services rendus, éventuellement jusqu’à mettre en jeu la vie humaine.
 
@@ -56,6 +62,8 @@ Il peut être matériel, si vous hébergez votre propre serveur, ou sous la form
 **Phishing  ou Hameçonnage :**  Technique dite d’ingénierie sociale, par laquelle un attaquant incite une victime à agir sans qu’il en comprenne les conséquences. Ceci repose souvent sur des courriers électroniques ou des messages dans les réseaux sociaux dont le contenu est frauduleux.
 Cela pourrait commencer par un e-mail innocent ou un message sur Facebook d'un inconnu, qui suggère d'ouvrir un lien vers une belle promotion ou une vidéo hilarante. Il faut alors remplir des cases avec ses données personnelles ou débloquer un contenu en fournissant son numéro de carte bancaire.
 Attention, des sites copies conformes de l'original sont aussi capables d'aspirer vos précieuses données en quelques secondes. Cette technique permet ensuite de revendre cette matière première à des spécialistes afin par exemple d'usurper votre identité.
+
+**Phreaking :** c’est le détournement de services de télécommunication par divers procédés, dans le but d’éviter les grosses factures de téléphone ou les oreilles indiscrètes. Un autre type de piratage téléphonique est l’utilisation détournée des téléphones cellulaires. Avec ce type de téléphones, aucune connexion physique n‘est nécessaire, et il est facile d’écouter les conversations au moyen de scanners GSM et autres. Les téléphones cellulaires sont aussi facilement reprogrammables : les malfaiteurs peuvent ensuite les utiliser sans payer leurs communications, qui seront facturées aux véritables propriétaires.
 
 **Piratage :**  Vol de données informatiques.
 
